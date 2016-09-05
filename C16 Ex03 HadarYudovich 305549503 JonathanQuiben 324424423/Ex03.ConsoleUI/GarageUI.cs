@@ -17,6 +17,7 @@ namespace Ex03.ConsoleUI
         public void DisplayVehicles()
         {
             System.Console.WriteLine("Bla");
+            System.Console.WriteLine("Test2");
         }
 
         public void ChangeVehicleStatus()
