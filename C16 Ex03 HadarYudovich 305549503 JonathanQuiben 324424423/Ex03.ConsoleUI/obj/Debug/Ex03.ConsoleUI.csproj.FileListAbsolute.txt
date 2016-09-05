@@ -1,0 +1,5 @@
+C:\Users\hadar\Documents\Visual Studio 2015\Projects\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\hadar\Documents\Visual Studio 2015\Projects\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\hadar\Documents\Visual Studio 2015\Projects\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\hadar\Documents\Visual Studio 2015\Projects\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\hadar\Documents\Visual Studio 2015\Projects\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
