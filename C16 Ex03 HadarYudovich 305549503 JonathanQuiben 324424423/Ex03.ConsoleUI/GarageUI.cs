@@ -8,6 +8,7 @@ namespace Ex03.ConsoleUI
     {
         public void DisplayMenu()
         {
+            System.Console.WriteLine("This is a github proof of concept");
         }
 
         public void AddVehicleToGarage()
