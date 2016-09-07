@@ -1,0 +1,5 @@
+C:\Users\malware\Documents\GitHub\CS16-DN-EX03\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojResolveAssemblyReference.cache
+C:\Users\malware\Documents\GitHub\CS16-DN-EX03\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\malware\Documents\GitHub\CS16-DN-EX03\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\malware\Documents\GitHub\CS16-DN-EX03\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\malware\Documents\GitHub\CS16-DN-EX03\C16 Ex03 HadarYudovich 305549503 JonathanQuiben 324424423\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
