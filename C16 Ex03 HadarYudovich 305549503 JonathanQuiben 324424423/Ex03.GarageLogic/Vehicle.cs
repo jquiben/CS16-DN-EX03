@@ -26,7 +26,13 @@ namespace Ex03.GarageLogic
         }
 
         public abstract override string ToString();
-        public abstract void InflateTires(float i_AmmountToInflate);
+        public void InflateTires(float i_AmmountToInflate)
+        {
+            foreach (Wheel WheelToInflate in m_VehicleWheels)
+            {
+                WheelToInflate.InflateTire(i_AmmountToInflate);
+            }
+        }
 
         protected abstract void updatePercentageOfLeftEnergy();
     }
