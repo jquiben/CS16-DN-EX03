@@ -9,6 +9,7 @@ namespace Ex03.ConsoleUI
         public static void Main()
         {
             System.Console.WriteLine("Welcome to the garage!");
+            GarageUI.DisplayMenu();
         }
     }
 }

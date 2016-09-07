@@ -6,7 +6,7 @@ namespace Ex03.ConsoleUI
 {
     class GarageUI
     {
-        public void DisplayMenu()
+        public static void DisplayMenu()
         {
             System.Console.WriteLine("This is a github proof of concept");
         }
