@@ -4,8 +4,30 @@ using System.Text;
 
 namespace Ex03.GarageLogic
 {
-    class Vehicle
+    public abstract class Vehicle
     {
-        blah
+        protected readonly string r_PlateNum;
+        protected readonly Wheel[] m_VehicleWheels;
+        protected string m_ModelName;
+        protected float m_PercentageOfLeftResource;
+        protected float m_ResourceRemainTime;
+        protected float m_ResourceMaxTime;
+
+
+
+        public Vehicle(string i_PlateNum)
+        {
+            r_PlateNum = i_PlateNum;
+        }
+
+        public sealed override int GetHashCode()
+        {
+            return r_PlateNum.GetHashCode();
+        }
+
+        public abstract override string ToString();
+        public abstract void InflateTires(float i_AmmountToInflate);
+
+        protected abstract void updatePercentageOfLeftEnergy();
     }
 }
